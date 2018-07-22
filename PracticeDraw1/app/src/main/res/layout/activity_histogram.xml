@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.hencoder.hencoderpracticedraw1.practice.HistogramLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/hl_test"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#506E7A"
+    android:paddingBottom="100dp"
+    android:paddingEnd="20dp"
+    android:paddingStart="20dp"
+    android:paddingTop="100dp"
+    app:ColumnColor="#df9760"
+    app:TextColor="#FFFFFF"
+    tools:context=".HistogramActivity">
+
+</com.hencoder.hencoderpracticedraw1.practice.HistogramLayout>

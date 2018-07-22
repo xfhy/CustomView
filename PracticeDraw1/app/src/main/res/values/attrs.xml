@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--柱状图-->
+    <declare-styleable name="HistogramLayout">
+        <!--矩形颜色:ColumnColor-->
+        <attr name="ColumnColor" format="color"/>
+        <!--文字颜色:TextColor-->
+        <attr name="TextColor" format="color"/>
+    </declare-styleable>
+
+</resources>
