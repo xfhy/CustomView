@@ -10,7 +10,7 @@ import android.text.TextUtils;
 import android.util.AttributeSet;
 import android.view.View;
 
-import com.hencoder.hencoderpracticedraw1.HistogramModel;
+import com.hencoder.hencoderpracticedraw1.model.HistogramModel;
 import com.hencoder.hencoderpracticedraw1.R;
 
 import java.util.ArrayList;

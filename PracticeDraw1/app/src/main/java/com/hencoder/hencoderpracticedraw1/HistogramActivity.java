@@ -2,8 +2,8 @@ package com.hencoder.hencoderpracticedraw1;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.View;
 
+import com.hencoder.hencoderpracticedraw1.model.HistogramModel;
 import com.hencoder.hencoderpracticedraw1.practice.HistogramLayout;
 
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package com.hencoder.hencoderpracticedraw1;
+package com.hencoder.hencoderpracticedraw1.model;
 
 /**
  * Created by xfhy on 2018/7/21 22:58
